@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/iGEM-Challenge/precache-manifest.67b8130f50224d27a3be9be21476161e.js"
+  "/iGEM-Challenge/precache-manifest.db07c3b709e2890fe40f9c41a697e44f.js"
 );
 
 workbox.clientsClaim();
