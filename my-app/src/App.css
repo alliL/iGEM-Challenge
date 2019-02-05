@@ -1,0 +1,66 @@
+header {
+  margin: 0, 50px, 50px, 0;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  flex: 1;
+  padding: 20px;
+}
+
+.btn-group {
+  display: flex;
+  flex: 10;
+  list-style-type: none;
+}
+
+.btn-group button {
+  background-color: rgb(255, 160, 153); /* Green background */
+  border: 1px solid rgb(253, 107, 97); /* Green border */
+  color: black; /* Black text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  flex: 1;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #9AD1D4;
+}
+
+
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */

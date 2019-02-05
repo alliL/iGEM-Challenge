@@ -1,0 +1,14 @@
+.cardinfo {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.userid {
+    flex: 1;
+    margin-top: 25px;
+}
+
+.content {
+    flex: 16;
+}
