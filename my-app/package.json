@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alliL.github.io/iGEM-Challenge/",
+  "homepage": "https://alliL.github.io/iGEM-Challenge/my-app",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
@@ -24,5 +24,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "terser": "^3.14.1"
+  }
 }
