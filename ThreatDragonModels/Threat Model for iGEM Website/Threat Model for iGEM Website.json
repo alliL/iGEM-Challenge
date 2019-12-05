@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Threat Model for iGEM Website",
+    "owner": "Allison"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "iGEM Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
