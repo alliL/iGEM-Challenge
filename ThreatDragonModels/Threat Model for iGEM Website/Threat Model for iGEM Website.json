@@ -230,6 +230,14 @@
                   "status": "Open",
                   "severity": "Medium",
                   "description": "A generic DoS threat"
+                },
+                {
+                  "status": "Open",
+                  "severity": "Medium",
+                  "mitigation": "We are actively performing threat modeling to ensure the keys are protected and the permissions are properly enforced",
+                  "title": "Generic tampering threat",
+                  "type": "Tampering",
+                  "description": "A generic tampering threat"
                 }
               ],
               "attrs": {
